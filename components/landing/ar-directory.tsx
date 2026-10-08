@@ -42,7 +42,7 @@ export function ARDirectory() {
               Daftar Account Representative
             </h2>
             <p className="mt-4 max-w-2xl text-[#53607f]">
-              Pilih divisi, terus cari personel yang kamu butuhin, Kalau kontaknya aktif </br >dan nomor WA-nya valid, tinggal klik buat langsung chat. ✨            
+              Pilih divisi, terus cari personel yang kamu butuhin, Kalau kontaknya aktif <br />dan nomor WA-nya valid, tinggal klik buat langsung chat. ✨            
             </p>
           </div>
           <div className="flex items-center gap-2 rounded-2xl bg-[#f7f9ff] px-4 py-3 text-sm font-semibold text-[#263788]">
