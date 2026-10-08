@@ -42,7 +42,8 @@ export function ARDirectory() {
               Daftar Account Representative
             </h2>
             <p className="mt-4 max-w-2xl text-[#53607f]">
-              Pilih divisi dan personel. Tombol WhatsApp hanya tersedia untuk kontak yang aktif dan memiliki nomor valid.
+              Pilih divisi, terus cari personel yang kamu butuhin.
+              Kalau kontaknya aktif dan nomor WA-nya valid, tinggal klik buat langsung chat. ✨            
             </p>
           </div>
           <div className="flex items-center gap-2 rounded-2xl bg-[#f7f9ff] px-4 py-3 text-sm font-semibold text-[#263788]">
@@ -126,7 +127,8 @@ export function ARDirectory() {
         </div>
 
         <p className="mt-8 text-xs leading-relaxed text-[#7b879f]">
-          Data kontak mengikuti template Excel yang disertakan dalam proyek. Untuk perubahan data, perbarui workbook lalu jalankan proses sinkronisasi data sebelum deploy berikutnya.
+          Butuh bantuan lebih lanjut?
+          Jangan ragu untuk menghubungi kami.
         </p>
       </div>
     </section>

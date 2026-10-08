@@ -33,7 +33,8 @@ export default function Home() {
       <section id="cara-hubungi" className="border-y border-[#dce3f3] bg-[#f7f9ff] px-5 py-8 md:px-6">
         <div className="mx-auto flex max-w-7xl items-center gap-3 text-sm text-[#53607f]">
           <MessageCircle className="h-5 w-5 text-[#263788]" />
-          <span><strong className="text-[#212c5f]">Cara menghubungi:</strong> pilih personel → klik barisnya → WhatsApp terbuka di tab baru.</span>
+          <span><strong className="text-[#212c5f]">Cara menghubungi:</strong> Pilih → Klik → Langsung chat.
+          Gampang, kan? 😎</span>
         </div>
       </section>
 
