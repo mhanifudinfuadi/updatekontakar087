@@ -18,16 +18,15 @@ export function Navigation() {
           className="flex items-center gap-3"
           aria-label="Kontak AR 087"
         >
-          <div className="relative h-10 w-10 shrink-0 overflow-hidden rounded-xl">
-            <Image
-              src="/images/logoweb.png"
-              alt="Logo Kontak AR 087"
-              fill
-              priority
-              className="object-contain"
-              sizes="40px"
-            />
-          </div>
+          <div className="relative h-18 w-28 sm:h-18 sm:w-32">
+          <Image
+            src="/images/logoweb.png"
+            alt="Direktorat Jenderal Pajak"
+            width={400}
+            height={240}
+            className="h-16 w-auto object-contain sm:h-[72px]"
+          />
+        </div>
 
           <span className="leading-tight">
             <span className="block text-sm font-black text-[#212c5f]">
